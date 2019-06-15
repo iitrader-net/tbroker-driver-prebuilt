@@ -1,0 +1,25 @@
+Buildfile: /home/ibanez/tbroker-driver-sino/build.xml
+
+init:
+    [mkdir] Created dir: /home/ibanez/tbroker-driver-sino/bin
+    [mkdir] Created dir: /home/ibanez/jlib/include/sino
+
+comp:
+    [javac] Compiling 1 source file to /home/ibanez/tbroker-driver-sino/bin
+    [javah] [Forcefully writing file RegularFileObject[/home/ibanez/tbroker-driver-sino/src-jni/tbroker_BrokerSino.h]]
+
+pack:
+      [jar] Building jar: /home/ibanez/jlib/tbroker-driver-sino.jar
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 1 file to /home/ibanez/jlib
+     [copy] Copying 12 files to /home/ibanez/jlib/include/sino
+
+BUILD SUCCESSFUL
+Total time: 1 second
