@@ -1,0 +1,18 @@
+<project name="Trader" default="pack" basedir=".">
+	<description>
+	</description>
+	<property name="bin" location="bin"/>
+	<property name="pack"  location="pack"/>
+	<target name="init">
+	<tstamp/>
+		<mkdir dir="${bin}"/>
+		<mkdir dir="../jlib"/>
+	</target>
+
+	<target name="pack" description="generate the distribution" >
+		<copy todir="../jlib" overwrite="true">
+			<fileset dir="blob"/>
+		</copy>
+	</target>
+</project>
+

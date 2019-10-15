@@ -1,0 +1,22 @@
+:compileJava UP-TO-DATE
+:processResources NO-SOURCE
+:classes UP-TO-DATE
+:jar UP-TO-DATE
+:startScripts UP-TO-DATE
+:distTar UP-TO-DATE
+:distZip UP-TO-DATE
+:shadowJar UP-TO-DATE
+:startShadowScripts UP-TO-DATE
+:shadowDistTar UP-TO-DATE
+:shadowDistZip UP-TO-DATE
+:assemble UP-TO-DATE
+:compileTestJava NO-SOURCE
+:processTestResources NO-SOURCE
+:testClasses UP-TO-DATE
+:test NO-SOURCE
+:check UP-TO-DATE
+:build UP-TO-DATE
+
+BUILD SUCCESSFUL
+
+Total time: 1.108 secs
