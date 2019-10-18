@@ -1,0 +1,25 @@
+Buildfile: /usr/local/google/home/howardsoc/tbroker-driver-sino/build.xml
+
+init:
+    [mkdir] Created dir: /usr/local/google/home/howardsoc/tbroker-driver-sino/bin
+    [mkdir] Created dir: /usr/local/google/home/howardsoc/jlib/include/sino
+
+comp:
+    [javac] Compiling 1 source file to /usr/local/google/home/howardsoc/tbroker-driver-sino/bin
+    [javah] [Forcefully writing file RegularFileObject[/usr/local/google/home/howardsoc/tbroker-driver-sino/src-jni/tbroker_BrokerSino.h]]
+
+pack:
+      [jar] Building jar: /usr/local/google/home/howardsoc/jlib/tbroker-driver-sino.jar
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 1 file to /usr/local/google/home/howardsoc/jlib
+     [copy] Copying 12 files to /usr/local/google/home/howardsoc/jlib/include/sino
+
+BUILD SUCCESSFUL
+Total time: 1 second
