@@ -1,0 +1,26 @@
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.7
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+1 warning
+
+:processResources NO-SOURCE
+:classes
+:jar
+:startScripts
+:distTar
+:distZip
+:shadowJar
+:startShadowScripts
+:shadowDistTar
+:shadowDistZip
+:assemble
+:compileTestJava NO-SOURCE
+:processTestResources NO-SOURCE
+:testClasses UP-TO-DATE
+:test NO-SOURCE
+:check UP-TO-DATE
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 1.354 secs

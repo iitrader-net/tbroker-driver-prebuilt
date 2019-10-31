@@ -1,0 +1,15 @@
+Buildfile: /usr/local/google/home/howardsoc/tbroker-driver/build.xml
+
+init:
+    [mkdir] Created dir: /usr/local/google/home/howardsoc/tbroker-driver/bin
+
+comp:
+    [javac] Compiling 9 source files to /usr/local/google/home/howardsoc/tbroker-driver/bin
+    [javac] Note: /usr/local/google/home/howardsoc/tbroker-driver/src/tbroker/BrokerCloudServer.java uses or overrides a deprecated API.
+    [javac] Note: Recompile with -Xlint:deprecation for details.
+
+pack:
+      [jar] Building jar: /usr/local/google/home/howardsoc/jlib/tbroker-driver.jar
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
